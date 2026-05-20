@@ -1,0 +1,12 @@
+# virtual environments
+.venv/
+.venv311/
+
+# large data files
+processed_parquet_millan/
+milan_full_sorted.parquet
+
+# system files
+.DS_Store
+__pycache__/
+*.pyc
